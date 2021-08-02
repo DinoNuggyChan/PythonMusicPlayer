@@ -12,7 +12,7 @@
     <img src="https://i.imgur.com/jRGxzZS.gif" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Dino Nuggy~ Website Source Code</h3>
+  <h3 align="center">Dino Nuggy~ Python Music Player</h3>
 
   <p align="center">
     <a href="https://nuggetbot.xyz">My Discord Bot</a>

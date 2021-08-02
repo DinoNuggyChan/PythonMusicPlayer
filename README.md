@@ -6,7 +6,7 @@
 
 
 
-<br />
+<br/>
 <p align="center">
   <a href="https://github.com/DinoNuggyChan/PythonMusicPlayer">
     <img src="https://i.imgur.com/jRGxzZS.gif" alt="Logo" width="200" height="200">
